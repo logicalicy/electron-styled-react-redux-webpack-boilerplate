@@ -4,6 +4,10 @@
 
 This is an Electron boilerplate application based on [electron-quick-start](https://github.com/electron/electron-quick-start) and [Roman Shejbal's blogpost](http://red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux/).
 
+## Screenshot
+
+<img src="https://github.com/logicalicy/electron-styled-react-redux-webpack-boilerplate/raw/master/screenshot.png" width="400" />
+
 ## Usage
 
 ```bash
