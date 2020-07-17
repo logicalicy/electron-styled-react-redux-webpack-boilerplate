@@ -46,7 +46,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "babel-register": "^6.24.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "menubar": "^5.2.3",
     "polished": "^1.2.1",
     "react": "^15.6.1",
